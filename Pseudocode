@@ -1,0 +1,71 @@
+Question 1: Find the maximum number in any of three variables.
+
+Start
+
+INPUT A
+INPUT B
+INPUT C
+
+IF A>B 
+  THEN A>C 
+    IF TRUE 
+      THEN Print A
+    ELSE Print C
+ELSE B>C
+  IF TRUE
+    THEN PRINT B
+  ELSE Print C
+
+END
+
+Question 2: Take three variables as input and add them without using the + operator (Use your head for this)
+
+Start
+
+INPUT A
+INPUT B
+INPUT C
+
+Multiply B and C by -1
+Set sum to 0
+
+Set sum to A - B
+Set sum to sum - C
+
+End
+
+Question 3: Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+one being used for the operator)
+
+Start
+
+Set sum to 0
+Set Multiply to 1 
+
+INPUT A
+INPUT B
+INPUT C
+
+Enter Operator: + OR x
+IF Operator == "+"
+  THEN Set Sum to A+B+C
+END
+
+IF Operator == "x"
+  THEN set multiply to AxBxC
+END
+
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
