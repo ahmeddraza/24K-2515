@@ -1,0 +1,62 @@
+Question 1: Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
+
+1) Start
+2) Input a Number
+3) Input a divisor 
+4) Divide number by Divisor
+5) IF ANS == INT
+     THEN Print Divisiable
+   ELSE Print Not Divisiable
+
+Question 2: Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+
+1) Start 
+2) Input a Number (1-12)
+3) IF Num = 1
+     THEN Print January
+   ELSE IF Num = 2
+     THEN Print Febuary
+   ELSE IF Num = 3
+     THEN Print March
+   ELSE IF Num = 4
+     THEN Print April
+   ELSE IF Num = 5
+     THEN Print May
+   ELSE IF Num = 6
+     THEN Print June
+  ELSE IF Num = 7 
+     THEN Print July
+  ELSE IF Num = 8
+     THEN Print August
+  ELSE IF Num = 9
+     THEN Print September
+  ELSE IF Num = 10
+     THEN Print October
+  ELSE IF Num = 11
+     THEN Print November
+  ELSE IF Num = 12
+     THEN Print December
+
+4) End 
+
+Question 3: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+1) Start
+
+2) Enter A
+3) Enter Operator
+4) Enter B
+
+5) IF Operator == "+"
+  THEN A+B
+ELSE IF Opeartor == "-"
+  THEN A-B
+ELSE IF Operator == "x"
+  THEN A x B
+ELSE IF Operator == "/"
+ THEN A/B
+
+6) Print Result
+7) END
+   
+   
